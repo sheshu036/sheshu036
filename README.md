@@ -1,5 +1,5 @@
-# Hi 👋, I'm Sheshadri Bhat
-## <center>Web developer aspiring to full stack</center> 
+<h1 align="center" dir"auto"> Hi 👋, I'm Sheshadri Bhat </h1>
+<h2 align="center" dir"auto"> Web developer aspiring to full stack</h2> 
 <div align="center">
   <br/>
   <a href="https://github.com/sheshu036/sheshu036/blob/main/banner.svg">
