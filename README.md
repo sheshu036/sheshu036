@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sheshadri Bhat
-## Web developer aspiring to full stack 
+## <center>Web developer aspiring to full stack</center> 
 <!--
 **sheshu036/sheshu036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
